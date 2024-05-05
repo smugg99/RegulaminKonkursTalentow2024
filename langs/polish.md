@@ -27,8 +27,8 @@
 		<div class="container">
 			<div class="content">
 				<h2><strong>Skład Jury</strong></h2>
+				<h3><strong>Wiktoria Porębska</strong></h3>
 				<h3>Jerzy Talar</h3>
-				<h3>Wiktoria Porębska</h3>
 				<h3>Jan Gryzik</h3>
 			</div>
 		</div>
@@ -37,10 +37,10 @@
 		<div class="container">
 			<div class="content">
 				<h2><strong>Komisja</strong></h2>
+				<h3><strong>Anna Chronowska</strong></h3>
 				<h3>Kamil Bajdel</h3>
 				<h3>Jakub Janus</h3>
 				<h3>Karol Duda</h3>
-				<h3>Anna Chronowska</h3>
 			</div>
 		</div>
 	</div>
@@ -53,7 +53,7 @@
 <br/>
 <div class="container-center">
 	<div class="content-compact">
-		<img src="../static/zsem_logo.png" alt="ZSEM Logo" class="img-xxs">
+		<img src="../static/stowarzyszenie_logo.jpg" alt="Stowarzszenie Logo" class="img-xs">
 	</div>
 	<div class="content-compact">
 		<img src="../static/zsem_logo.png" alt="ZSEM Logo" class="img-xs">
@@ -82,7 +82,7 @@
 			<li>Prezentacja może mieć formę sceniczną, muzyczną lub plastyczną (piosenka, taniec, przemówienie, kabaret, iluzja itp.).</li>
 			<li>Konkurs składa się z jednego etapu, który odbędzie się w dniu XX.XX.2024, na terenie naszej szkoły.</li>
 			<li>Do konkursu dopuszczone zostają jedynie te występy, które nie zagrażają zdrowiu i życiu uczestników konkursu oraz publiczności.</li>
-			<li>Do udziału zaproszeni są zarówno wykonawcy indywidualni, jak i grupy prezentujące swój talent.</li>
+			<li>Do udziału zaproszeni są zarówno wykonawcy indywidualni, jak i grupy prezentujące swój talent. Maksymalnie 10 osób w drużynie.</li>
 			<li>Prezentacja nie powinna być dłuższa niż 10 minut.</li>
 			<li>Uczestnicy konkursu mają obowiązek dostarczyć niezbędne pomoce do swojego występu przed rozpoczęciem konkursu. W przeciwnym wypadku występ może być niedopuszczony do udziału w konkursie.</li>
 			<li>W czasie występu niedozwolone jest wykonywanie czegokolwiek powszechnie uznawanego za nieodpowiednie lub wulgarne.</li>
@@ -91,7 +91,7 @@
 			<li>Organizator, jury lub komisja konkursu ma prawo przerwać występ w dowolnym momencie.</li>
 			<li>Uczestnicy zobowiązani są do zachowania szacunku i zasad "fair play" wobec innych uczestników oraz jury.</li>
 			<li>Każdy uczestnik ma prawo do wystąpienia tylko w jednej kategorii konkursowej.</li>
-			<li>Organizator zapewnia odpowiednie warunki techniczne dla każdej prezentacji.</li>
+			<li>Organizator zapewnia odpowiednie warunki techniczne dla każdej prezentacji (nagłośnienie, mikrofony itp.). Wszystkie występy muszą się zmieścić w wyznaczonym miejscu.</li>
 			<li>Uczestnicy zobowiązani są do przestrzegania wszelkich przepisów dotyczących praw autorskich.</li>
 			<li>Organizatorzy zastrzegają sobie prawo do fotografowania oraz nagrywania wydarzenia.</li>
 			<li>Wszelkie sytuacje sporne lub niejasności będą rozstrzygane przez komisję konkursową.</li>
