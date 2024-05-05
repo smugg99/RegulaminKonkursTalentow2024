@@ -1,0 +1,228 @@
+/*
+ * Markdown PDF CSS
+ */
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs)>code {
+	color: #C9AE75;
+	/* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 16px;
+}
+
+.content {
+	flex: 1;
+	text-align: center;
+}
+
+.content h3 {
+	margin-top: 4px;
+}
+
+.content img {
+	max-width: 80%;
+	max-height: 80%;
+	border-radius: 8px;
+	margin-top: 4px;
+}
+
+
+.content-compact {
+	flex: 1;
+	text-align: center;
+}
+
+.content-compact h3 {
+	margin-top: 2px;
+}
+
+.content-compact img {
+	max-width: 70%;
+	max-height: 70%;
+	border-radius: 8px;
+}
+
+
+.content-ultra-compact {
+	flex: 1;
+	text-align: center;
+}
+
+.content-ultra-compact h3 {
+	margin-top: 2px;
+}
+
+.content-ultra-compact img {
+	max-width: 55%;
+	max-height: 55%;
+	border-radius: 8px;
+}
+
+
+.content-expanded {
+	flex: 1;
+	text-align: center;
+}
+
+.content-expanded h3 {
+	margin-top: 4px;
+}
+
+.content-expanded img {
+	max-width: 100%;
+	max-height: 100%;
+	border-radius: 8px;
+}
+
+
+.container-left {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 16px;
+}
+
+.container-left .content {
+	text-align: left;
+}
+
+.container-center {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.container-center-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 8px;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+.text {
+	flex: 1;
+}
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+	width: 80%;
+}
+
+th,
+td {
+	border: 1px solid #343a40;
+	padding: 8px;
+	text-align: center;
+}
+
+strong {
+	color: #212529;
+}
+
+p,
+a {
+	color: #212529;
+}
+
+.title-text {
+	font-size: 32px;
+}
+
+h1 {
+	color: #0d1b2a;
+}
+
+h2 {
+	color: #1b263b;
+}
+
+h3 {
+	color: #212529;
+	font-size: 16px;
+}
+
+a {
+	font-size: 20px;
+}
+
+title-text {
+	font-size: 48px;
+}
+
+.img-xxxs {
+	width: 75px;
+	height: auto;
+}
+
+.img-xxs {
+	width: 100px;
+	height: auto;
+}
+
+.img-xs {
+	width: 150px;
+	height: auto;
+}
+
+.img-sm {
+	width: 250px;
+	height: auto;
+}
+
+.img-md {
+	max-width: 400px;
+	max-height: 400px;
+}
+
+.img-b {
+	max-width: 600px;
+	max-height: 600px;
+}
