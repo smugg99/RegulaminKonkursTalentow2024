@@ -211,6 +211,11 @@ title-text {
 	font-size: 48px;
 }
 
+title-text-compact {
+	font-size: 48px;
+	padding-bottom: 2px;
+}
+
 .img-xxxs {
 	width: 75px;
 	height: auto;

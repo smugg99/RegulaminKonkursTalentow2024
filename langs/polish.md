@@ -6,7 +6,6 @@
 	<div class="content-expanded">
 		<h2 class="title-text"><strong>REGULAMIN KONKURSU</strong></h2>
 		<h3 class="title-text">"Elektryczne Talenty"</h3>
-		<img src="../static/net_work_logo.png" alt="Logo" class="img-sm">
 	</div>
 </div>
 
@@ -51,18 +50,32 @@
 <br/>
 <br/>
 <br/>
-<div class="container-center">
+<div class="container">
+	<div class="content-expanded">
+		<h2 class="title-text-compact"><strong>Sponsorzy</strong></h2>
+	</div>
+</div>
+<div class="container-center-center">
 	<div class="content-compact">
-		<img src="../static/stowarzyszenie_logo.jpg" alt="Stowarzszenie Logo" class="img-xs">
+		<!-- <h4 class="title-text">"Stowarzyszenie Sądecki Elektryk"</h4> -->
+		<img src="../static/stowarzyszenie_logo.jpg" alt="Stowarzyszenie Logo" class="img-xs">
 	</div>
 	<div class="content-compact">
+		<!-- <h4 class="title-text">"ZSEM"</h4> -->
 		<img src="../static/zsem_logo.png" alt="ZSEM Logo" class="img-xs">
-	</div>
-	<div class="content-compact">
-		<img src="../static/zsem_logo.png" alt="ZSEM Logo" class="img-xxs">
 	</div>
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <div class="container-center">
 	<div class="content">
 		<h4>Zespół Szkół Elektryczno-Mechanicznych nr. 7 w Nowym Sączu</h4>
@@ -98,6 +111,11 @@
 			<li>Decyzje komisji konkursowej są ostateczne i niepodważalne.</li>
 			<li>W przypadku złamania regulaminu, uczestnik może zostać zdyskwalifikowany z konkursu.</li>
 			<li>Organizatorzy zastrzegają sobie prawo do interpretacji oraz zmiany regulaminu w każdym momencie.</li>
+			<li>Każdy z członków jury będzie oceniał każdy występ w skali od 0 do 10 punktów.</li>
+			<li>Punkty wyznaczone przez jury będą sumowane, a drużyny będą ustawiane w rankingu na podstawie sumy punktów.</li>
+			<li>W przypadku remisu o istotne miejsce w rankingu (takie z nagrodami), decydujący głos będzie miała widownia w ankiecie.</li>
+			<li>Nagrodę publiczności otrzymuje występ, który zdobędzie największą liczbę głosów w ankiecie przeprowadzonej przez widownię.</li>
+			<li>Organizator wraz ze sponsorami zastrzegają sobie prawo do wręczenia dodatkowych nagród według własnego uznania.</li>
 		</ol>
 	</div>
 </div>
